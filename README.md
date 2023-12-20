@@ -1,2 +1,4 @@
 # IA-para-Regime-de-Estudo-RBC-
-IA para Regime de Estudo (RBC)
+Problema: é comum crianças terem dificuldade em se adaptar a diferentes metodologias de ensino tanto na sala de aula quanto em casa, isso limita seu potencial e pode afastar o docente ou os pais da criança.
+
+Logo, é essencial se atentar aos detalhes do que estimula e desestimula a criança, de modo a fomentar seu gosto pelo conhecimento. Pensando nisso, quis desenvolver uma Inteligencia Artificial com Raciocício Baseado em Casos que analisasse o comportamento da criança para determinar o melhor regime de estudo que atenderia as necessidades dela. Infelizmente so pude incluir inicialmente a condição de autismo, porém futuramente desejo implementar outros como TDAH, Dislexia, Deficiencia Auditiva e Visual, entre outras condições específicas que tambem necessitam de mais opções de metodologias de aprendizagem.
